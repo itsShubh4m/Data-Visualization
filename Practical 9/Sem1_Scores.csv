@@ -1,0 +1,11 @@
+Student_ID,Full_Name,Dept_Info,Math,Physics,Chemistry,Programming,Attendance
+S201,Neel Joshi,CSE-01,91,87%,89,94,92 %
+S202,Meera Shah,ECE-02,76,81%,84,79,86 %
+S203,Karan Mehta,CSE-01,83,89%,78,91,88 %
+S204,Isha Kulkarni,IT-03,96,93%,94,97,96 %
+S205,Arjun Desai,MECH-04,58,,62,68,70 %
+S206,Riya Kapoor,CSE-01,87,90%,86,93,91 %
+S207,Manav Shah,ECE-02,,74%,77,82,75 %
+S208,Tanya Rao,IT-03,93,96%,91,99,97 %
+S209,Dev Malhotra,CSE-01,71,65%,63,75,82 %
+S210,Nisha Menon,ECE-02,85,88%,82,90,94 %
